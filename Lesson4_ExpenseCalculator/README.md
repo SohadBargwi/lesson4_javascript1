@@ -13,7 +13,7 @@ Web Application Development
 (Lesson 4 is an introduction to the basics of JavaScript.  This project covers some of the JS's fundamental concepts on how to build the language like data types and structures, functions, and object-oriented programming.)
 
 ### View Project:
-(GitHub Page URL )
+(GitHub Page URL https://sohadbargwi.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
 1. (Yes, Java is different from JavaScript/Java creates applications that run in a virtual machine or browser while JavaScript code is run on a browser only.)
